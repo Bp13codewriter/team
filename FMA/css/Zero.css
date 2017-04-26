@@ -1,0 +1,167 @@
+body{
+	width: 100%;
+	height: 1200px;
+	background-color: rgb(162, 173, 208);
+	margin: 0;
+}
+
+
+.nav{
+	width: 90%;
+	margin: auto;
+}
+
+.nav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+ 
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+ 
+.nav a:hover {
+  background-color: #005f5f;
+}
+ 
+.nav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+ 
+@media screen and (min-width: 600px) {
+  .nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+ 
+  .nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+
+#igor{
+	width: 90%;
+	height: 64%;
+	background-color: #565254;
+	margin: auto;
+	box-shadow: -3px -1px 5px rgb(181, 181, 181), 3px -1px 5px rgb(181, 181, 181);
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+
+#a-ha img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+}
+#senpai{
+	margin-top: 38px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	width: 19%;
+	height: 82%;
+	background-color: #fffbfe;
+}
+#sum{
+	font-family: 'Droid Serif', serif;
+	font-size: 20px;
+	background-color: #fffbfe;
+	padding: 15px 15px 15px 15px;
+}
+#reina{
+	height: 99%;
+	width: 79%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.okumura{
+	background-color: #fffbfe;
+}
+.okumura p{
+	font-size: 19px;
+	font-family: 'Ubuntu', sans-serif;
+		margin-top: 5px;
+	margin-bottom: 0px;
+	padding-left: 3px;
+}
+
+#rin{
+	height: 97%;
+	width: 100%;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 25px;
+}
+a{
+	text-decoration: none;
+	color: rgb(25, 119, 186);
+}
+#rin h5{
+	color: rgb(25, 119, 186);
+	margin-top: 13px;
+	margin-bottom: 10px;
+}
+#rin p{
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+h6{
+	margin-top: 13px;
+	margin-bottom: 10px;
+}
+#yukio{
+	width: 23%;
+	height: 65%;
+}
+#yukio img{
+	height: auto;
+	width: 100%;
+}
+#shiemi{
+	width: 23%;
+	height: 65%;
+}
+#shiemi img{
+	height: auto;
+	width: 100%;
+}
+#izumo{
+	width: 23%;
+	height: 65%;
+}
+#izumo img{
+	height: auto;
+	width: 100%;
+}
+#bon{
+	width: 23%;
+	height: 65%;
+}
+#bon img{
+	height: auto;
+	width: 100%;
+}

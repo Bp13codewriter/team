@@ -1,0 +1,85 @@
+body{
+	height: 2000px;
+	width: 100%;
+	background-color: rgb(162, 173, 208);
+	margin: 0;
+}
+
+#papa{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.felt{
+
+}
+.felt img{
+	height: auto;
+	width: 20%;
+}
+
+.comments{
+	margin-top: 15px;
+}
+
+#weeb{
+	width: 80%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#FMA h1{
+	display: -webkit-inline-box;
+}
+#Zero h1{
+	display: -webkit-inline-box;
+}
+#Dragon h1{
+	display: -webkit-inline-box;
+}
+#Cowboy h1{
+	display: -webkit-inline-box;
+}
+#Nichijou h1{
+	display: -webkit-inline-box;
+}
+#Persona h1{
+	display: -webkit-inline-box;
+}
+#Maid h1{
+	display: -webkit-inline-box;
+}
+#Hero h1{
+	display: -webkit-inline-box;
+}
+#Food h1{
+	display: -webkit-inline-box;
+}
+#Sailor h1{
+	display: -webkit-inline-box;
+}
+a{
+	text-decoration: none;
+}
+#ho{
+	width: 20%;
+}
+
+li{
+	margin-top: 10px;
+	font-size: 20px;
+}
+
+
+#banime{
+	width: 100%;
+}
+
+
+
+
+
+	font-size: 20px;
+	font-family: 'Droid Sans', sans-serif;
